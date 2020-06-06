@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "@babel/cli": "^7.6.4",
-    "apollo-server-express": "^2.9.6",
+    "apollo-server-express": "^2.14.2",
     "bcrypt": "^3.0.7",
     "bcrypt-nodejs": "0.0.3",
     "cors": "^2.8.5",
